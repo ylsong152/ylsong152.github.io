@@ -5,6 +5,7 @@ import jsLogo from "../images/js-logo.svg";
 import reactLogo from "../images/react-logo.svg";
 import reduxLogo from "../images/redux-logo.svg";
 import tailwindLogo from "../images/tailwind-logo.svg";
+import styledComponentLogo from "../images/styled-component-logo.svg";
 import aboutGraphic from "../images/about.jpg";
 
 const WhatIDoWrapper = styled.section`
@@ -92,6 +93,7 @@ const Technology = styled.div`
     color: #fff;
     padding: 5px 10px;
     border-radius: 5px;
+    white-space: nowrap;
   }
 `;
 
@@ -116,6 +118,7 @@ function About() {
     { image: reactLogo, name: "React" },
     { image: reduxLogo, name: "Redux" },
     { image: tailwindLogo, name: "TailwindCSS" },
+    { image: styledComponentLogo, name: "Styled-Component" },
   ];
 
   const points = [
@@ -133,9 +136,7 @@ function About() {
       </GraphicWrapper>
       <ContentWrapper>
         <SectionTitle>What I Do</SectionTitle>
-        <Description>
-          Front-end Development
-        </Description>
+        <Description>Front-end Development</Description>
         <TechnologiesWrapper>
           {techLogos.map((logo) => (
             <Technology
