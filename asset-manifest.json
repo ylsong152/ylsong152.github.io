@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.c2f42637.css",
-    "main.js": "/static/js/main.ba5a8ec4.js",
+    "main.js": "/static/js/main.7dd70bec.js",
     "static/media/about.jpg": "/static/media/about.cdbf2c00503958028347.jpg",
     "static/media/project-cookie.jpeg": "/static/media/project-cookie.fbc67ba85cd62f7dbc74.jpeg",
     "static/media/project-weather-app.jpeg": "/static/media/project-weather-app.65c00e381cde8b158c2e.jpeg",
     "static/media/project-portfolio.jpeg": "/static/media/project-portfolio.5b36bec8781a47f13fc7.jpeg",
     "static/media/header.png": "/static/media/header.18fd47008181760f90b7.png",
     "static/media/project-calculator.jpeg": "/static/media/project-calculator.aed6f038b33570f10412.jpeg",
+    "static/media/styled-component-logo.svg": "/static/media/styled-component-logo.22d2d36c31a05bb432684c8dcfe248fb.svg",
     "static/media/redux-logo.svg": "/static/media/redux-logo.954b3f427d28b3746c04a3f317fcdcde.svg",
     "static/media/react-logo.svg": "/static/media/react-logo.b800ff4da3ba38cb9030096351bd71eb.svg",
     "static/media/js-logo.svg": "/static/media/js-logo.aeeb29f54b78ec590fa616c23749a764.svg",
@@ -16,10 +17,10 @@
     "index.html": "/index.html",
     "static/media/html-logo.svg": "/static/media/html-logo.6b183a60ccde44fed016e336d5005355.svg",
     "main.c2f42637.css.map": "/static/css/main.c2f42637.css.map",
-    "main.ba5a8ec4.js.map": "/static/js/main.ba5a8ec4.js.map"
+    "main.7dd70bec.js.map": "/static/js/main.7dd70bec.js.map"
   },
   "entrypoints": [
     "static/css/main.c2f42637.css",
-    "static/js/main.ba5a8ec4.js"
+    "static/js/main.7dd70bec.js"
   ]
 }
